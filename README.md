@@ -1,5 +1,5 @@
 # TokenPayToken!
-
+İletişim, Destek ve diğer herşey için mrtersiyer@gmail.com
 Son zamanlar uzun uzun bitcointalk.org u inceledim ve gördüğüm kadarı ile işi iyi bilen yazılımcı kitleri eksik kalmış. İşi bilen 3,5 kişi ise projelerini kendilerine saklıyorlar. Velakin ben buna çıkarak TokenPay adı altında oluşturduğum tokenin Ethereum Solidity kodlarını sizlerle paylaşmak istiyorum. Kodların açıklamalarını kurallarına uygun biçimde her fonksiyon ve değişkenin üzerine tanımladım.
 
 # Detaylar
